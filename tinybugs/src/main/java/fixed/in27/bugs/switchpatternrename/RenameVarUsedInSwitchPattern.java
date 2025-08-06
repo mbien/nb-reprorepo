@@ -1,7 +1,8 @@
 
-package bugs.switchpatternrename;
+package fixed.in27.bugs.switchpatternrename;
 
 // https://github.com/apache/netbeans/issues/8296
+// https://github.com/apache/netbeans/pull/8714 (fix)
 public class RenameVarUsedInSwitchPattern {
 
     class RenameMe { }
