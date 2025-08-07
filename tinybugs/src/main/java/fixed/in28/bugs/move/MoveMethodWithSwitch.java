@@ -1,6 +1,6 @@
-package bugs.move;
+package fixed.in28.bugs.move;
 
-public class MoveMethod {
+public class MoveMethodWithSwitch {
 
     // this adds "yield" after move which is not valid
     // also visible via show preview
