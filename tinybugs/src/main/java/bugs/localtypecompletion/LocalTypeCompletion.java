@@ -1,4 +1,4 @@
-package bugs.localtypes;
+package bugs.localtypecompletion;
 
 // https://github.com/apache/netbeans/issues/8436
 public class LocalTypeCompletion {

@@ -1,4 +1,4 @@
-package fixed.in17.formatting;
+package fixed.in17.bugs.formatting;
 
 // https://github.com/apache/netbeans/issues/4399
 // fixed https://github.com/apache/netbeans/pull/5374

@@ -1,4 +1,4 @@
-package fixed.in22.imports;
+package fixed.in22.bugs.imports;
 
 import java.util.ArrayList;
 import javax.swing.AbstractAction;

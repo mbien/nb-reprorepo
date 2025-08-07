@@ -1,4 +1,4 @@
-package fixed.in23.javac.switchnpe;
+package fixed.in23.bugs.javac.switchnpe;
 
 /**
  * https://github.com/apache/netbeans/issues/5090

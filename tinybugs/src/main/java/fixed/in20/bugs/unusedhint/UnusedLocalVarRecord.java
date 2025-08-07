@@ -1,4 +1,4 @@
-package fixed.in20.unusedhint;
+package fixed.in20.bugs.unusedhint;
 
 import java.util.Arrays;
 import java.util.List;

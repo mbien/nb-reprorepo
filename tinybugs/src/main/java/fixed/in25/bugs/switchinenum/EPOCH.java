@@ -1,4 +1,4 @@
-package fixed.in25.switchinenum;
+package fixed.in25.bugs.switchinenum;
 
 // https://github.com/apache/netbeans/issues/7437
 // fixed in NB 25

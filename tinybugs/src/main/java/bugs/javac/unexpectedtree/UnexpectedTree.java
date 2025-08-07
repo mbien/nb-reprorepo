@@ -3,7 +3,7 @@ package bugs.javac.unexpectedtree;
 /**
  * https://github.com/apache/netbeans/issues/6822
  */
-public class Main {
+public class UnexpectedTree {
     
 //    Caused: java.lang.AssertionError: Unexpected tree: (ERROR) ? (ERROR) > entry : (ERROR) with kind: CONDITIONAL_EXPRESSION within: (ERROR) ? (ERROR) > entry : (ERROR) with kind: CONDITIONAL_EXPRESSION
 //	at com.sun.tools.javac.util.Assert.error(Assert.java:162)

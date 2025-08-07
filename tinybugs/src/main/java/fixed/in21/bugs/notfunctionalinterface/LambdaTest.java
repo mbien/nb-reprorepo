@@ -1,4 +1,4 @@
-package fixed.in21.notfunctionalinterface;
+package fixed.in21.bugs.notfunctionalinterface;
 
 /**
  * https://github.com/apache/netbeans/pull/6658

@@ -1,4 +1,4 @@
-package fixed.in17.misc;
+package fixed.in17.bugs.misc;
 
 public class RecordEnums {
 

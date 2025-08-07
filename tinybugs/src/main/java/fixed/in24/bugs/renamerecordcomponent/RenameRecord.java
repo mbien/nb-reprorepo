@@ -1,4 +1,4 @@
-package fixed.in24.renamerecordcomponent;
+package fixed.in24.bugs.renamerecordcomponent;
 
 /// fixed in NB 24.
 /// https://github.com/apache/netbeans/pull/7670

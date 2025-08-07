@@ -1,4 +1,4 @@
-package fixed.in22.imports;
+package fixed.in22.bugs.imports;
 
 // run ctrl+shift+i
 import java.util.List;
