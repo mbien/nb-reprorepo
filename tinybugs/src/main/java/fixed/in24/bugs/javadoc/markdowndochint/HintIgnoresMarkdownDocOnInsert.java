@@ -1,4 +1,4 @@
-package bugs.javadoc.markdowndochint;
+package fixed.in24.bugs.javadoc.markdowndochint;
 
 
 // https://github.com/apache/netbeans/issues/7827 issue
