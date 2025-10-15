@@ -1,4 +1,4 @@
-package bugs.javadocformatting;
+package fixed.in26.javadocformatting;
 
 // regression since NB 24+
 // issue https://github.com/apache/netbeans/issues/8233
