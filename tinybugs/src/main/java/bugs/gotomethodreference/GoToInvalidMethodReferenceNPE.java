@@ -7,7 +7,7 @@ public class GoToInvalidMethodReferenceNPE {
 
     public static void main(String args[]) {
 //        ChangeListener listener = GoToInvalidMethodReferenceNPE::invalid;
-        //                                                       ^^^^^^^ ctrl click
+        //                                                       ^^^^^^^ ctrl click (after parsing)
     }
 }
 /*
