@@ -1,5 +1,6 @@
-package bugs.javac.lintnpe;
+package fixed.in29.bugs.javac.lintnpe;
 
+// fixed via https://github.com/apache/netbeans/pull/9044
 
 // https://github.com/apache/netbeans/issues/8722
 // https://bugs.openjdk.org/browse/JDK-8365314
@@ -12,7 +13,7 @@ public class SuppressWarningsLintNPE {
 
 //    @SuppressWarnings
     private void npe()  {
-        // failure durinp parsing and completion
+        // failure during parsing and completion
     }
     
 /*

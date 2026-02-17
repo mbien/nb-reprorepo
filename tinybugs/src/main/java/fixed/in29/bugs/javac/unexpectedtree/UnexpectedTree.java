@@ -1,6 +1,8 @@
-package bugs.javac.unexpectedtree;
+package fixed.in29.bugs.javac.unexpectedtree;
 
 /**
+ * fixed: https://github.com/apache/netbeans/pull/9044
+ * 
  * https://github.com/apache/netbeans/issues/6822
  */
 public class UnexpectedTree {

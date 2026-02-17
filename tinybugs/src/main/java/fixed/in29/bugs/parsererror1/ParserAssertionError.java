@@ -1,8 +1,10 @@
-package bugs.parsererror1;
+package fixed.in29.bugs.parsererror1;
 
 import java.util.ArrayList;
 
 public class ParserAssertionError {
+    
+    // fixed: https://github.com/apache/netbeans/pull/9044
     
     // https://github.com/apache/netbeans/issues/4470 
     
